@@ -1,0 +1,51 @@
+[
+  {
+    "codigo": "001",
+    "nome": "Notebook Dell Inspiron",
+    "categoria": "Informatica",
+    "preco": 3299.9,
+    "quantidade": 8
+  },
+  {
+    "codigo": "002",
+    "nome": "Mouse Logitech MX Master",
+    "categoria": "Informatica",
+    "preco": 349.9,
+    "quantidade": 3
+  },
+  {
+    "codigo": "003",
+    "nome": "Cadeira Gamer ThunderX3",
+    "categoria": "Moveis",
+    "preco": 1199.0,
+    "quantidade": 2
+  },
+  {
+    "codigo": "004",
+    "nome": "Monitor Samsung 24pol",
+    "categoria": "Informatica",
+    "preco": 899.9,
+    "quantidade": 5
+  },
+  {
+    "codigo": "005",
+    "nome": "Teclado Mecanico Redragon",
+    "categoria": "Informatica",
+    "preco": 279.9,
+    "quantidade": 1
+  },
+  {
+    "codigo": "006",
+    "nome": "Mesa de Escritorio",
+    "categoria": "Moveis",
+    "preco": 450.0,
+    "quantidade": 3
+  },
+  {
+    "codigo": "007",
+    "nome": "Headset HyperX Cloud",
+    "categoria": "Perifericos",
+    "preco": 399.9,
+    "quantidade": 0
+  }
+]
